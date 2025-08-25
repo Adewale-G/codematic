@@ -32,7 +32,9 @@ export default function Signup() {
             href="/Home"
             className="block w-full p-2.5 bg-green-500 text-white text-center rounded-md hover:bg-green-600"
           >
-      </form>
+            Sign Up
+          </Link>
+          </form>
     </div>
   );
 }
